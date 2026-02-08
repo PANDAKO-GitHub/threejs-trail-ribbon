@@ -16,8 +16,8 @@ A lightweight trail and ribbon effect library for Three.js.
 
 ## Demo
 
-- [English Demo](demo-en.html)
-- [日本語デモ](demo-ja.html)
+- [English Demo](https://PANDAKO-GitHub.github.io/threejs-trail-ribbon/demo-en.html)
+- [日本語デモ](https://PANDAKO-GitHub.github.io/threejs-trail-ribbon/demo-ja.html)
 
 ## Installation
 
