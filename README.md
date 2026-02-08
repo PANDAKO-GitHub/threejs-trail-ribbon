@@ -40,12 +40,6 @@ A lightweight trail and ribbon effect library for Three.js.
 </script>
 ```
 
-### Using npm (coming soon)
-
-```bash
-npm install threejs-trail-ribbon
-```
-
 ## Quick Start
 
 ```javascript
