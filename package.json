@@ -1,0 +1,40 @@
+{
+  "name": "threejs-trail-ribbon",
+  "version": "1.0.0",
+  "description": "A lightweight trail and ribbon effect library for Three.js",
+  "main": "TrailRibbon.js",
+  "module": "TrailRibbon.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./TrailRibbon.js"
+    }
+  },
+  "files": [
+    "TrailRibbon.js"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PANDAKO-GitHub/threejs-trail-ribbon.git"
+  },
+  "keywords": [
+    "three",
+    "threejs",
+    "three.js",
+    "trail",
+    "ribbon",
+    "effect",
+    "webgl",
+    "3d"
+  ],
+  "author": "PANDAKO-GitHub",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PANDAKO-GitHub/threejs-trail-ribbon/issues"
+  },
+  "homepage": "https://github.com/PANDAKO-GitHub/threejs-trail-ribbon#readme",
+  "peerDependencies": {
+    "three": ">=0.150.0"
+  }
+}
