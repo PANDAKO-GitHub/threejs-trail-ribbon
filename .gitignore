@@ -22,3 +22,7 @@ npm-debug.log*
 # Environment
 .env
 .env.local
+
+# Alternative versions (not for public release)
+TrailRibbon.gdevelop.js
+TrailRibbon.global.js
